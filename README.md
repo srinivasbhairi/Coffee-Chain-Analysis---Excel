@@ -183,4 +183,3 @@ By discontinuing low-performing products, optimizing expenses, and focusing on h
 
 ---
 
-Would you like me to prepare a **final PDF version** of this report so you can directly upload it to your portfolio?
