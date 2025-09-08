@@ -1,4 +1,5 @@
-<img width="828" height="466" alt="image" src="https://github.com/user-attachments/assets/49d1d18b-2a35-4394-b77b-fa58d33948c8" />
+<img width="512" height="279" alt="image" src="https://github.com/user-attachments/assets/86d66260-fda0-44a0-9170-ee1598b6488c" />
+
 
 SRINIVAS BHAIRI | Data Scientist Aspirant
 
