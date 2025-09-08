@@ -4,6 +4,11 @@ SRINIVAS BHAIRI | Data Scientist Aspirant
 
 [Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi) 
 
+## 🔗 Live Dashboard
+
+You can view the **interactive Google Sheets dashboard** here:  
+[View Coffee Chain Dashboard](https://docs.google.com/spreadsheets/d/1MUygJ2O6EezasPSJEzvV_yiLt7F8Kryf/edit?usp=sharing)
+
 
 # **Coffee Chain Business Case Study (CCD)**
 
